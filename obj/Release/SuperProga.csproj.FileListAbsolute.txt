@@ -1,0 +1,11 @@
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\bin\Release\SuperProga.exe.config
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\bin\Release\SuperProga.exe
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\bin\Release\SuperProga.pdb
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.csproj.AssemblyReference.cache
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.Form1.resources
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.Properties.Resources.resources
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.WinCool.resources
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.csproj.GenerateResource.cache
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.csproj.CoreCompileInputs.cache
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.exe
+C:\Users\brind\Desktop\C#\SuperProga\SuperProga\obj\Release\SuperProga.pdb
